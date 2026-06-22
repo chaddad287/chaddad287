@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Visitor Badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=chaddad287&color=00ff41&style=for-the-badge&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=chaddad287&color=000000&style=for-the-badge&label=VISITORS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/chaddad287?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github)](https://github.com/chaddad287?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/chaddad287?style=for-the-badge&color=000000&labelColor=0d1117&logo=github)](https://github.com/chaddad287?tab=followers)
 
 </div>
 
